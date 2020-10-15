@@ -1,6 +1,15 @@
 # Mocked Backend
   NodeJS Backend mocked for tokens testing
-# API
+  
+### Install
+  
+  - Installation:  `npm install`
+  
+  
+  - Start:    `npm start`
+    
+    
+### API
 
   - **POST** `/login` *password=username , check /list to get login data*
   
